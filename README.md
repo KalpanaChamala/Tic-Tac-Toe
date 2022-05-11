@@ -39,6 +39,7 @@ The Second approach we used is from Adversarial Search.
            2.Alpha-Beta Pruning.
            
 Technology Stack
+
   a.Python 3
 
 ![](https://github.com/KalpanaChamala/Tic-Tac-Toe/blob/main/Image.png)
