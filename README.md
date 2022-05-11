@@ -2,7 +2,7 @@
 
    /Users/kalpanachamala/Desktop/Tic tac toe/tic 1.webp
 
-   ![](images/Users/kalpanachamala/Desktop/Tic tac toe/images/tic 1.webp)
+   ![](images/https://github.com/KalpanaChamala/Tic-Tac-Toe/blob/main/tic%201.webp)
 
 
 # Introduction
