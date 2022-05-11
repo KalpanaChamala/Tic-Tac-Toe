@@ -37,6 +37,8 @@ The Second approach we used is from Adversarial Search.
 Technology Stack
 1.Python 3
 
+![](https://github.com/KalpanaChamala/Tic-Tac-Toe/blob/main/Image.png)
+
 
 
 # Brief Description of Agents
