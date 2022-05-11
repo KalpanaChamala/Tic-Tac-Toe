@@ -51,9 +51,9 @@ Technology Stack
 
   e. To explore the entire game, our algorithm uses a Depth-First Search. It goes all the way down to the terminal node and     ther ecurses back up.
 
-            /Users/kalpanachamala/Desktop/Tic tac toe
+            
 
-         ![](images/Users/kalpanachamala/Desktop/Tic tac toe/images/min max.jpeg)
+         ![](https://github.com/KalpanaChamala/Tic-Tac-Toe/blob/main/min%20max.jpeg)
 
 
 
