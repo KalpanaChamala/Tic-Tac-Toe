@@ -72,6 +72,9 @@ determined by the min max algorithm. It is a two-player game with an adversarial
        policies that provide the optimal behaviors to take in order to maximize the rewards. These best moves are learned from previous experiences.
     It is always used to represent the quality of actions taken at each state, with the agent's purpose being to maximize the
        value of "Q."    
+       
+    
+   ![](https://github.com/KalpanaChamala/Tic-Tac-Toe/blob/main/q%20learning.jpeg)
 
  # Reinforcement Learing
    It's a machine learning technique that allows the agent to learn by trial and error in an interactive environment, using 
