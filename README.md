@@ -30,12 +30,16 @@ The player who gets the three consecutive symbols in a row or column or diagonal
 Comparing the efficiency of three algorithms by calculating the corresponding performance metrics and to find out which performs better either adversarial search or Reinforcement Learning.
 
 # Approaches
+
 The first Approach is Q-Learning from Reinforcement Learning. 
+
 The Second approach we used is from Adversarial Search.
+
            1.Min-Max Algorithm
            2.Alpha-Beta Pruning.
+           
 Technology Stack
-1.Python 3
+  a.Python 3
 
 ![](https://github.com/KalpanaChamala/Tic-Tac-Toe/blob/main/Image.png)
 
