@@ -64,7 +64,7 @@ Technology Stack
 determined by the min max algorithm. It is a two-player game with an adversarial search method. When applied to a min max tree,it produces the same moves as min-max, but prunes out those branches that have no bearing on the final decision.
      /Users/kalpanachamala/Desktop/Tic tac toe/images
 
-   ![](images/Users/kalpanachamala/Desktop/Tic tac toe/alpah beta.png)
+   ![](https://github.com/KalpanaChamala/Tic-Tac-Toe/blob/main/alpah%20beta.png)
 
 
 # Q-Learning    
