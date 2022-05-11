@@ -79,7 +79,7 @@ input from its own actions and experiences.
 
       
 
-   ![](images/Users/kalpanachamala/Desktop/Tic tac toe/images/reinforcemt.png)
+   ![](https://github.com/KalpanaChamala/Tic-Tac-Toe/blob/main/reinforcemt.png)
 
 
  # Deliverables
