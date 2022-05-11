@@ -62,8 +62,7 @@ Technology Stack
 
     Alpha-beta pruning is a search technique that always tries to reduce the number of nodes in its search tree that are 
 determined by the min max algorithm. It is a two-player game with an adversarial search method. When applied to a min max tree,it produces the same moves as min-max, but prunes out those branches that have no bearing on the final decision.
-
-        
+     /Users/kalpanachamala/Desktop/Tic tac toe/images
 
    ![](images/Users/kalpanachamala/Desktop/Tic tac toe/alpah beta.png)
 
